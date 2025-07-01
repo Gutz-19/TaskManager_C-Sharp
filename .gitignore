@@ -1,0 +1,11 @@
+# .NET Core
+bin/
+obj/
+*.csproj.user
+*.pdb
+*.exe
+*.dll
+*.suo
+*.cache
+*.log
+tasks.json
