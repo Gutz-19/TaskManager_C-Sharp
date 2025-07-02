@@ -25,3 +25,6 @@ A C# console application for managing tasks, built with .NET 9. Users can add, v
 1. Clone or download this repository
 2. Open the folder in Visual Studio or Visual Studio Code
 3. Build and run the project
+
+## Author
+Sherwin Guteza (Gutz)
